@@ -1,6 +1,6 @@
 # random
 
-accelerate==0.27.2
+accelerate==0.27.2 <br>
 aiohttp==3.9.3
 aiosignal==1.3.1
 annotated-types==0.6.0
