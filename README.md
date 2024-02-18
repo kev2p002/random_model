@@ -125,3 +125,37 @@ websockets==12.0 <br>
 wrapt==1.16.0 <br>
 yarl==1.9.4 <br>
 zipp==3.17.0 <br>
+
+#ocr <br>
+certifi==2024.2.2<br>
+charset-normalizer==3.3.2<br>
+easyocr==1.7.1<br>
+filelock==3.13.1<br>
+fsspec==2024.2.0<br>
+idna==3.6<br>
+imageio==2.33.1<br>
+Jinja2==3.1.3<br>
+lazy_loader==0.3<br>
+MarkupSafe==2.1.5<br>
+mpmath==1.3.0<br>
+networkx==3.2.1<br>
+ninja==1.11.1.1<br>
+numpy==1.26.4<br>
+opencv-python-headless==4.9.0.80<br>
+packaging==23.2<br>
+pillow==10.2.0<br>
+pyclipper==1.3.0.post5<br>
+python-bidi==0.4.2<br>
+PyYAML==6.0.1<br>
+requests==2.31.0<br>
+scikit-image==0.22.0<br>
+scipy==1.12.0<br>
+shapely==2.0.2<br>
+six==1.16.0<br>
+sympy==1.12<br>
+tifffile==2024.1.30<br>
+torch==2.2.0<br>
+torchvision==0.17.0<br>
+typing_extensions==4.9.0<br>
+urllib3==2.2.0<br>
+
